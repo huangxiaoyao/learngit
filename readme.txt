@@ -1,10 +1,4 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 
-a
-
-b
-
-control
-
-distributed
+这是我自己的修改。
